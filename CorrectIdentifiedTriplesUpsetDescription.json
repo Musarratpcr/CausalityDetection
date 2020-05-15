@@ -1,0 +1,20 @@
+{
+	"file": "https://raw.githubusercontent.com/Musarratpcr/CausalityDetection/master/CorrectIdentifiedTriplesUpset.csv",
+	"name": "Correct Identified Triples",
+	"header": 0,
+	"separator": ";",
+	"skip": 7,
+	"meta": [
+		{ "type": "integer", "index": 0, "name": "ActualCausal" },
+		{ "type": "integer", "index": 1, "name": "Case5CorrectCausal" },
+		{ "type": "integer", "index": 2, "name": "Case6CorrectCausal" },
+		{ "type": "integer", "index": 3, "name": "Case7CorrectCausal" },
+		{ "type": "integer", "index": 4, "name": "Case8CorrectCausal" },
+		{ "type": "integer", "index": 5, "name": "Case9CorrectCausal" },
+		{ "type": "integer", "index": 6, "name": "Case10CorrectCausal" },
+		{ "type": "id", "index": 7, "name": "Class" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 0, "end": 6 }
+	]
+}
