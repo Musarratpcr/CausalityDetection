@@ -1,4 +1,4 @@
-AcutalCausalTriples;Case5CorrectIdentifiedTriples;Case6CorrectIdentifiedTriples;Case7CorrectIdentifiedTriples;Case8CorrectIdentifiedTriples;Case9CorrectIdentifiedTriples;Case10CorrectIdentifiedTriples;Triple
+AcutalCausalTriples;Case5;Case6;Case7;Case8;Case9;Case10;Triple
 1.0;0.0;0.0;0.0;0.0;0.0;0.0; Acne caused hormonal imbalance
 1.0;1.0;1.0;1.0;1.0;1.0;1.0; Acne caused irritants
 1.0;0.0;0.0;0.0;0.0;0.0;0.0; Acne caused oily skin
