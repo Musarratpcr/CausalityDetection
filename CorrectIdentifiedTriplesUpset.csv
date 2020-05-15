@@ -1,0 +1,377 @@
+AcutalCausalTriples;Case5CorrectIdentifiedTriples;Case6CorrectIdentifiedTriples;Case7CorrectIdentifiedTriples;Case8CorrectIdentifiedTriples;Case9CorrectIdentifiedTriples;Case10CorrectIdentifiedTriples;Triple
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Acne caused hormonal imbalance
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Acne caused irritants
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Acne caused oily skin
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Acne is hormonal imbalance
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Acne is irritants
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Acne is oily skin
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Alcohol cause suicide
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Asthma causes narrowing
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Asthma is narrowing
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Asthma swelling narrowing
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Cancer causes illness
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Cancer is illness
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Dehydration is death
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Depression is suicide
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Endometriosis is infertility
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Fainting is unconsciousness
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Fog caused delays
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Hiccups are spasm
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Hiccups caused spasm
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Infectious diseases are parasites
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Infectious diseases caused parasites
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Inhalation fumes irritation
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Inhalation produces irritation
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Joint problems are osteoarthitis
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Joint problems caused osteoarthitis
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Landslides caused deaths
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Lesions affecting hemiparesis
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Lesions caused hemiparesis
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Lesions caused leg weakness
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Lesions sparing hemiparesis
+1.0;0.0;1.0;1.0;1.0;0.0;0.0; Methadone gives buzz
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Neuralgia is headache
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Power generated reaction
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Power is reaction
+1.0;1.0;1.0;1.0;1.0;1.0;0.0; Pressure walking friction
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Rain caused cancellation
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Recessions are excess demand
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Recessions caused excess demand
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Sadness leads dissatisfaction
+1.0;0.0;1.0;1.0;1.0;0.0;1.0; Stimulation produced latency
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Storms lead losses
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Stroke is death
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Stroke leading death
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Swine flu is disease
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Swine flu leading disease
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Tides are gravitational pull
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Tides caused gravitational pull
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Tonsillitis caused micro-organisms
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Tonsillitis is micro-organisms
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; Tsunamis are displacement
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; Tsunamis caused displacement
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; abscess caused infection
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; abscess is infection
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; abuse resulted swelling
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; accident cause power outage
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; accident caused snarl
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; accident resulted death
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; acidity caused carbon dioxide
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; acidity is carbon dioxide
+1.0;1.0;1.0;1.0;1.0;0.0;0.0; acne caused cosmetics
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; acne is cosmetics
+1.0;0.0;1.0;1.0;1.0;1.0;1.0; agreements resulted diversion
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; airstrike resulted explosions
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; anger caused abuse
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; anger was abuse
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; announcement caused stir
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; anxiety caused accident
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; bacteria is pneumonia
+1.0;0.0;0.0;0.0;1.0;0.0;0.0; bacteria sleeping sickness
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; ban caused debate
+1.0;1.0;0.0;1.0;1.0;1.0;0.0; batteries provide power
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; beam generated emission
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; beam is emission
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; blast caused mishandling
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; blast was mishandling
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; blaze triggered fault
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; blaze was fault
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; bleeding caused injury
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; bleeding was injury
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; bloodshed caused growth
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; bloodshed was growth
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; bombing resulted deaths
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; breakdown caused war
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; burns are liquids
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; burns caused liquids
+1.0;0.0;1.0;1.0;1.0;0.0;1.0; caterpillars caused disease
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; clashes including deaths
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; clashes resulted deaths
+1.0;0.0;1.0;1.0;1.0;0.0;0.0; closure caused backup
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; clot caused seizure
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; coalition established activities
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; coalition has activities
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; collision resulted crashes
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; colors are dispersion
+1.0;1.0;1.0;1.0;1.0;0.0;1.0; colors caused dispersion
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; complication arose irradiation
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; complications resulted deaths
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; conflict been wastewater
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; conflict caused wastewater
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; conflict has wastewater
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; congestion caused delays
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; contamination caused residues
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; contamination was residues
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; contractions are prostaglandins
+1.0;0.0;0.0;1.0;1.0;0.0;0.0; contractions caused prostaglandins
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; controversy arose assignment
+1.0;1.0;1.0;1.0;1.0;1.0;0.0; corruption triggered utilities
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; corruption was utilities
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; crash been meteor
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; crash caused attack
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; crash caused meteor
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; crash has meteor
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; crash was attack
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; creatures caused scare
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; crisis been cost
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; crisis caused blockade
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; crisis caused cost
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; crisis caused jobless rate
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; crisis escalating cost
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; crisis had jobless rate
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; crisis has cost
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; damage been hallucinogens
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; damage caused aircraft
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; damage caused bombing
+1.0;0.0;0.0;1.0;1.0;0.0;1.0; damage caused bullet
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; damage caused collision
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; damage caused earthquake
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; damage caused earthquakes
+1.0;0.0;1.0;1.0;1.0;0.0;1.0; damage caused hallucinogens
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; damage caused industry
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; damage caused misuse
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; damage caused tornado
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; damage caused virus
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; damage has hallucinogens
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; damage was collision
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; death caused cancellation
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; death caused tsunami
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; decline been collapse
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; decline caused collapse
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; decline has collapse
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; deformation caused filling
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; delays are governments
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; delays caused governments
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; deleveraging triggered crisis
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; destruction caused war
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; devastation been waste
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; devastation caused earthquake
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; devastation caused fire
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; devastation caused flooding
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; devastation caused tsunami
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; devastation caused waste
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; devastation caused waves
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; devastation has waste
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; devastation includes waste
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; dips are y-rays
+1.0;0.0;0.0;0.0;1.0;0.0;0.0; dips caused y-rays
+1.0;1.0;1.0;1.0;1.0;0.0;1.0; dirt cause acne
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; disaster caused hurricane
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; disaster was hurricane
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; diseases are gene mutations
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; diseases caused gene mutations
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; disorders are drinking
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; disorders are mutation
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; disorders caused drinking
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; disorders caused mutation
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; distraction caused incident
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; distraction coupled incident
+1.0;0.0;0.0;0.0;0.0;0.0;1.0; disturbances build erosion
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; disturbances lead erosion
+1.0;1.0;1.0;1.0;1.0;1.0;0.0; disturbances required erosion
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; dizziness caused injury
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; dizziness were injury
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; drag caused atmosphere
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; drop caused recession
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; drop was recession
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; dust dry nosebleeds
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; dust produces irritation
+1.0;0.0;1.0;1.0;1.0;1.0;0.0; dust set alarm
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; effect achieved way
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; effect is way
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; effect lighting light
+1.0;1.0;0.0;1.0;1.0;1.0;1.0; election caused appointment
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; election was appointment
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; electrical short caused fire
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; energy caused posters
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; energy going source
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; energy is source
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; entrapments resulted suffocation
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; error caused tags
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; error was tags
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; events caused dissolution
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; expansion resulted movements
+1.0;1.0;1.0;1.0;1.0;0.0;1.0; experience ensued blend
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; explosion caused crater
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; explosion triggered blast
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; explosion was blast
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; fatigue is pain
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; fear caused power
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; fear caused stab
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; fear suffered stab
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; fear triggered death
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; fear was death
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; fear were stab
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; flooding been clogging
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; flooding caused clogging
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; flooding caused cyclone
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; flooding has clogging
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; floods caused rains
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; flu cause stress
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; flu include chills
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; flu increases stress
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; force generated joystick
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; force was joystick
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; fungi cause disease
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; hair loss caused stress
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; harm caused flood
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; harm caused quake
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; humiliation comes people
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; illness caused bacteria
+1.0;0.0;1.0;1.0;1.0;0.0;1.0; illness triggered chickenpox
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; illness was chickenpox
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; imbalance caused torque
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; impact caused slit
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; incident caused entry
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; incident was entry
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; incidents have injuries
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; incidents resulted injuries
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; incidents resulted poisonings
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; incoming water caused stain
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; inconvenience caused fence
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; infection caused fungus
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; influenza caused virus
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; injuries are fireworks
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; injuries caused fireworks
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; injuries obtained fireworks
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; injury been person
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; injury caused person
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; injury has person
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; interaction arose layers
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; interferon is fever
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; irritants cause coughing
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; jump was deterioration
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; leakage caused person
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; light broken table-lamp
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; light emanated table-lamp
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; light radiating face
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; light radiating friend
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; light was face
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; light was friend
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; light was turrets
+1.0;0.0;0.0;1.0;1.0;0.0;1.0; measure gained lectures
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; measure was lectures
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; misinterpretation been word
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; misinterpretation caused word
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; misinterpretation has word
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; monsoons are change
+1.0;0.0;1.0;1.0;1.0;0.0;1.0; monsoons caused change
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; mosaicism derived mutation
+1.0;0.0;0.0;1.0;1.0;0.0;0.0; mosaicism observed mutation
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; mosaicism was mutation
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; murders result conviction
+1.0;0.0;1.0;1.0;1.0;1.0;1.0; neuron unleashes jolt
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; noise biasing resistors
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; noise caused powertrain
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; noise caused resistors
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; noise triggered quake
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; noise was quake
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; noise was resistors
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; nuclear energy is pollution
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; outbreak caused vaccine
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; outbreak was vaccine
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; pain been strains
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; pain caused strains
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; pain caused torment
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; pain has strains
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; pain was torment
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; pandemic caused infection
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; pandemic caused virus
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; pandemic was virus
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; papillomavirus is warts
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; performance was company
+1.0;0.0;0.0;1.0;1.0;0.0;0.0; perturbations caused moon
+1.0;1.0;1.0;1.0;1.0;1.0;0.0; plasma generated discharge
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; plasma was discharge
+1.0;0.0;1.0;1.0;1.0;1.0;1.0; pollution caused shipwreck
+1.0;0.0;0.0;1.0;1.0;0.0;0.0; pollution causes warming
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; pollution was shipwreck
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; problems ensued policy
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; problems have policy
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; process caused stricture
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; process had stricture
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; raid resulted crisis
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; rainbows are refraction
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; rainbows caused refraction
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; rash caused fungal imbalance
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; receiver outputting tone
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; receiver was tone
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; recession been collapse
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; recession has collapse
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; recession triggered collapse
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; reproductive toxicity caused nitrite
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; reproductive toxicity was nitrite
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; response caused ripple
+1.0;1.0;0.0;0.0;0.0;0.0;0.0; riots bashing verdict
+1.0;0.0;1.0;1.0;1.0;1.0;1.0; riots triggered verdict
+1.0;0.0;1.0;1.0;1.0;1.0;1.0; rules establish criteria
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; sadness leads fear
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; sadness leads murder
+1.0;1.0;0.0;1.0;1.0;1.0;1.0; scheme establishing access
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; shifts are gas flows
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; shifts caused gas flows
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; shortages mounting riots
+1.0;1.0;0.0;1.0;1.0;1.0;0.0; shot caused wound
+1.0;0.0;0.0;1.0;0.0;0.0;0.0; slide triggered crew
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; slide was crew
+1.0;0.0;1.0;1.0;1.0;1.0;0.0; sound made viper
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; sounds made species
+1.0;0.0;1.0;1.0;1.0;1.0;1.0; speech caused combustion
+1.0;1.0;1.0;1.0;1.0;1.0;0.0; spike caused glitch
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; spill caused tanker
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; spill was tanker
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; spills caused hurricane
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; steam produced combustion
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; storm caused cancellation
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; storm generated cold front
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; storm generated upwelling
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; storm is upwelling
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; storm was cold front
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; streaks are particles
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; streaks caused particles
+1.0;0.0;0.0;1.0;1.0;0.0;0.0; streaks see particles
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; stress caused battles
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; strike resulted death
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; struggle caused disturbance
+1.0;1.0;1.0;1.0;1.0;0.0;1.0; subject imply implication
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; subject is implication
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; suffering caused bomb
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; suffering caused crisis
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; suffering caused embargo
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; suffering caused exploitation
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; system generating power
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; system was power
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; tail caused solar wind
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; tail is solar wind
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; tension caused fighting
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; ticks caused discomfort
+1.0;0.0;1.0;1.0;1.0;0.0;1.0; treaty establishes rule
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; tsunami missing displacement
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; tsunami resulted displacement
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; tsunami triggered earthquake
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; turbines generate electricity
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; ulcer caused stress
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; ulcers are infectious agent
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; ulcers caused infectious agent
+1.0;0.0;0.0;1.0;1.0;1.0;0.0; vacancy created retirement
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; variations are stratospheric winds
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; variations caused stratospheric winds
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; vibrations caused movement
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; vibrations had movement
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; view is perspective
+1.0;0.0;1.0;1.0;1.0;0.0;0.0; view rooted perspective
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; virus caused pandemic
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; viruses caused infections
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; viruses have infections
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; visit caused sensation
+1.0;1.0;1.0;1.0;1.0;1.0;0.0; voltage instigates reaction
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; weight caused collapse
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; wind catch fire
+1.0;0.0;0.0;0.0;0.0;0.0;1.0; wind caused draft
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; wind caused fire
+1.0;1.0;1.0;1.0;1.0;1.0;0.0; wind swirling draft
+1.0;0.0;0.0;0.0;0.0;0.0;0.0; winds are moisture
+1.0;1.0;1.0;1.0;1.0;1.0;1.0; winds caused moisture
+0.0;1.0;1.0;1.0;1.0;0.0;1.0;influenza caused virus
+1.0;0.0;0.0;0.0;0.0;0.0;0.0;influenza is virus
+0.0;0.0;0.0;0.0;0.0;1.0;0.0;influenza caused virus
