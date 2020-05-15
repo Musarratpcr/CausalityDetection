@@ -1,0 +1,19 @@
+{
+	"file": "https://raw.githubusercontent.com/Musarratpcr/CausalityDetection/master/SentenceResultUpset.csv",
+	"name": "Correct Identified Sentences",
+	"header": 0,
+	"separator": ";",
+	"skip": 6,
+	"meta": [
+		{ "type": "integer", "index": 0, "name": "Case5" },
+		{ "type": "integer", "index": 1, "name": "Case6" },
+		{ "type": "integer", "index": 2, "name": "Case7" },
+		{ "type": "integer", "index": 3, "name": "Case8" },
+		{ "type": "integer", "index": 4, "name": "Case9" },
+		{ "type": "integer", "index": 5, "name": "Case10" },
+		{ "type": "id", "index": 6, "name": "Class" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 0, "end": 5 }
+	]
+}
