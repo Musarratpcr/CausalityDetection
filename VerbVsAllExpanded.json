@@ -1,0 +1,15 @@
+{
+	"file": "https://raw.githubusercontent.com/Musarratpcr/CausalityDetection/master/VerbVsAllExpanded.csv",
+	"name": "Triples",
+	"header": 0,
+	"separator": ";",
+	"skip": 2,
+	"meta": [
+		{ "type": "integer", "index": 0, "name": "VerbExpanded" },
+		{ "type": "integer", "index": 1, "name": "AllExpanded" },
+		{ "type": "id", "index": 2, "name": "Class" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 0, "end": 1 }
+	]
+}
