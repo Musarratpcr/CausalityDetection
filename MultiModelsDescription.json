@@ -3,7 +3,7 @@
 	"name": "Bert Model Comparision",
 	"header": 0,
 	"separator": ";",
-	"skip": 7,
+	"skip": 0,
 	"meta": [
 		{ "type": "integer", "index": 0, "name": "Case5" },
 		{ "type": "integer", "index": 1, "name": "Case6" },
