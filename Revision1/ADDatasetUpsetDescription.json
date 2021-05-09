@@ -1,0 +1,20 @@
+{
+	"file": "https://raw.githubusercontent.com/Musarratpcr/CausalityDetection/master/Revision1/ADDasetUpset.csv",
+	"name": "Bert Model Comparision",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "integer", "index": 0, "name": "BertBaseMean" },
+		{ "type": "integer", "index": 1, "name": "BertLargeMean" },
+		{ "type": "integer", "index": 2, "name": "BertBaseMax" },
+		{ "type": "integer", "index": 3, "name": "BertLargeMax" },
+		{ "type": "integer", "index": 4, "name": "BertBaseCls" },
+		{ "type": "integer", "index": 5, "name": "BertLargeCls" },
+		{ "type": "integer", "index": 6, "name": "AcutalLabels" },
+		{ "type": "id", "index": 7, "name": "Class" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 0, "end": 6 }
+	]
+}
