@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/Musarratpcr/CausalityDetection/master/Revision1/ADDasetUpset.csv",
+	"file": "https://raw.githubusercontent.com/Musarratpcr/CausalityDetection/master/Revision1/ADDatasetUpset.csv",
 	"name": "Bert Model Comparision",
 	"header": 0,
 	"separator": ";",
