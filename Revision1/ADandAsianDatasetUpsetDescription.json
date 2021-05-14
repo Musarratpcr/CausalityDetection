@@ -1,0 +1,20 @@
+{
+	"file": "https://raw.githubusercontent.com/Musarratpcr/CausalityDetection/master/Revision1/ADandAsianDatasetUpset.csv",
+	"name": "Bert Model Comparision",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "integer", "index": 0, "name": "BaseMean" },
+		{ "type": "integer", "index": 1, "name": "LargeMean" },
+		{ "type": "integer", "index": 2, "name": "BaseMax" },
+		{ "type": "integer", "index": 3, "name": "LargeMax" },
+		{ "type": "integer", "index": 4, "name": "BaseCls" },
+		{ "type": "integer", "index": 5, "name": "LargeCls" },
+		{ "type": "integer", "index": 6, "name": "Labels" },
+		{ "type": "id", "index": 7, "name": "Class" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 0, "end": 6 }
+	]
+}
