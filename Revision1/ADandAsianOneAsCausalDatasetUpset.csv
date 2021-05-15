@@ -1,0 +1,952 @@
+Base-Mean;Large-Mean;Base-Max;Large-Max;Base-Cls;Large-Cls;Actual;Triples
+1;1;1;0;1;1;1;alcohol associated depression
+1;0;1;0;1;1;1;alcohol related depression
+1;1;1;0;1;1;1;alcohol increased depression
+1;1;1;1;1;1;1;alcohol developing depression
+1;1;1;1;1;1;0;alcohol associated depression
+1;0;0;0;1;1;0;alcohol related depression
+0;0;0;0;1;0;1;depression occur alcohol
+0;0;0;0;1;0;0;alcohol [ depression
+0;1;1;0;1;1;0;alcohol analyze diabetes
+0;1;1;0;1;1;1;diabetes denied alcohol
+0;0;0;0;1;0;1;diabetes raised alcohol
+0;1;0;1;1;1;1;diabetes affecting alcohol
+0;1;1;1;1;1;1;diabetes promote alcohol
+0;1;0;0;1;1;1;diabetes leading alcohol
+0;0;0;0;0;0;1;diabetes affect alcohol
+0;0;0;0;0;0;1;alcohol undergone diabetes
+0;1;0;1;1;1;0;alcohol verified diabetes
+0;0;0;0;1;1;0;alcohol underlined diabetes
+0;1;0;1;1;1;0;alcohol presented diabetes
+0;0;0;0;1;1;1;alcohol associated diabetes
+0;1;0;1;1;1;0;alcohol exposed diabetes
+0;1;0;1;1;1;1;alcohol known diabetes
+1;1;1;1;1;1;1;alcohol result diabetes
+0;0;0;0;0;0;0;alcohol inherited diabetes
+0;0;0;0;0;0;0;alcohol mellitus diabetes
+0;0;1;0;1;1;0;alcohol smoking diabetes
+0;0;0;0;0;1;0;alcohol incarcerated diabetes
+0;1;0;1;1;1;0;alcohol associated diabetes
+0;0;0;0;0;1;1;alcohol receiving heart disease
+0;0;0;0;1;1;1;alcohol dying heart disease
+0;0;0;0;1;1;1;alcohol caused heart disease
+0;0;0;0;0;1;1;alcohol considered heart disease
+0;0;0;0;0;0;0;alcohol according heart disease
+0;0;0;0;0;0;0;alcohol accounting heart disease
+0;0;0;0;0;1;0;alcohol diabetes heart disease
+0;0;0;0;0;0;1;alcohol reduced heart disease
+0;0;0;0;1;0;1;alcohol increased heart rate
+0;0;0;0;0;0;1;alcohol associated heart rate
+0;0;0;0;0;0;1;alcohol dampen heart rate
+0;0;0;0;0;0;0;alcohol decreased heart rate
+0;0;0;0;0;0;1;alcohol following heart rate
+0;0;0;0;0;1;0;alcohol testing heart rate
+0;0;0;0;0;0;0;alcohol associated heart rate
+0;0;0;0;0;0;1;alcohol increases heart rate
+0;0;0;0;0;1;1;alcohol intake heart rate
+0;0;0;0;0;0;0;alcohol performed heart rate
+0;0;0;0;0;0;0;alcohol selected heart rate
+0;0;0;0;0;1;0;alcohol explaining heart rate
+0;0;0;0;1;0;0;alcohol fasting heart rate
+0;0;0;0;0;1;1;alcohol lead heart rate
+0;0;0;0;0;0;1;alcohol increase heart rate
+0;0;0;0;1;1;1;heart rate characterized alcohol
+0;0;0;0;0;1;0;alcohol consumed heart rate
+0;0;0;0;0;1;1;alcohol induce heart rate
+0;0;0;0;0;0;0;alcohol correlated heart rate
+0;0;0;0;0;0;1;alcohol elicited heart rate
+0;0;0;0;0;1;1;alcohol indicated heart rate
+0;0;0;0;0;1;0;alcohol assessed heart rate
+0;0;0;0;1;0;0;alcohol increased heart rate
+0;0;0;0;1;0;1;heart rate persisted alcohol
+0;0;0;0;1;0;1;alcohol resulting heart rate
+0;0;0;0;0;0;1;alcohol performed heart rate
+0;0;0;0;0;0;1;alcohol occurred heart rate
+0;0;0;0;0;0;1;alcohol reduced heart rate
+0;0;0;0;0;0;1;alcohol decreased heart rate
+0;0;0;0;0;1;0;alcohol consuming heart rate
+0;0;0;0;0;1;0;alcohol increases heart rate
+0;0;0;0;0;0;0;alcohol indexed heart rate
+0;0;0;0;1;1;0;alcohol wave heart rate
+0;0;0;0;0;0;0;alcohol augmented heart rate
+0;0;0;0;0;0;0;alcohol taking heart rate
+0;0;0;0;0;1;0;alcohol related heart rate
+0;0;0;0;1;1;1;heart rate following alcohol
+0;0;0;0;0;0;1;alcohol elevated heart rate
+0;0;0;0;0;0;1;alcohol evoke heart rate
+1;1;1;0;1;1;1;alcohol including heart rate
+1;1;1;0;1;1;0;alcohol treated heart rate
+0;0;0;0;0;0;1;alcohol causes heart rate
+0;0;0;0;1;1;1;alcohol produced heart rate
+0;1;0;0;1;1;1;heart rate measured alcohol
+0;1;0;0;1;1;1;heart rate using alcohol
+0;1;0;0;1;0;0;alcohol associated hypertension
+1;1;0;0;1;1;1;alcohol known hypertension
+0;1;0;0;1;1;1;alcohol prioritised hypertension
+0;0;0;0;1;1;1;alcohol lost hypertension
+0;0;0;0;0;1;1;alcohol increases hypertension
+1;1;0;0;1;1;0;alcohol diabetes hypertension
+1;1;1;0;1;1;0;alcohol recovering hypertension
+0;0;0;0;0;0;1;alcohol raised hypertension
+0;0;1;0;1;1;1;alcohol identified hypertension
+1;1;0;0;1;1;1;alcohol associated hypertension
+0;0;1;0;1;1;1;alcohol elevated hypertension
+0;0;0;0;0;0;1;alcohol fasting hypertension
+0;1;0;0;0;0;0;alcohol raised hypertension
+0;0;0;0;0;0;0;alcohol fasting hypertension
+1;1;0;0;1;0;1;alcohol negates hypertension
+0;1;0;0;1;1;1;alcohol increasing hypertension
+0;0;0;0;0;0;1;alcohol impact hypertension
+1;0;0;0;1;0;1;alcohol mellitus hypertension
+1;1;1;0;1;1;0;alcohol compared hypertension
+0;0;0;0;1;1;0;alcohol adjusting hypertension
+0;0;0;0;1;0;0;alcohol disordered hypertension
+1;0;0;0;1;0;0;alcohol recommended stroke
+1;0;0;0;1;0;1;alcohol associated stroke
+0;1;0;0;1;0;0;alcohol intake stroke
+0;1;0;0;1;0;0;alcohol associated stroke
+1;0;1;0;1;0;1;alcohol dilated stroke
+0;1;0;0;0;0;1;alcohol ischemic stroke
+0;1;0;0;1;1;1;alcohol acquired stroke
+1;0;0;0;1;1;0;alcohol increased stroke
+0;0;0;0;0;0;1;alcohol increased stroke
+0;0;0;0;0;0;1;alcohol affects stroke
+0;1;0;0;1;0;1;alcohol increases stroke
+0;0;0;0;1;0;1;alcohol diabetes stroke
+0;1;0;0;1;1;1;alcohol developing stroke
+1;1;1;0;1;1;1;alcohol reduces stroke
+1;0;0;0;1;0;1;alcohol improves stroke
+0;0;0;0;0;0;0;alcohol adjusted stroke
+0;0;0;0;0;0;0;alcohol included stroke
+0;0;0;0;1;0;0;alcohol diabetes stroke
+1;0;0;0;1;0;0;alcohol preexisting stroke
+0;0;0;0;0;0;0;alcohol including stroke
+1;1;1;0;1;0;1;alcohol reduce stroke
+0;1;0;0;1;1;1;stroke increased alcohol
+1;0;1;0;1;0;0;alcohol smoking stroke
+0;1;0;0;1;0;1;alcohol including stroke
+0;0;0;0;0;0;1;alcohol prevented stroke
+0;0;0;0;1;0;1;alcohol caused stroke
+0;0;0;0;0;0;1;alcohol modified stroke
+0;0;0;0;0;0;0;alcohol seen stroke
+0;0;0;0;0;0;1;systolic blood pressure present alcohol
+1;1;0;0;1;1;0;alcohol adjusted systolic blood pressure
+0;0;0;0;0;0;0;alcohol including systolic blood pressure
+0;0;0;0;1;0;0;alcohol related systolic blood pressure
+0;0;0;0;0;0;0;alcohol seen systolic blood pressure
+0;0;0;0;1;0;0;alcohol correlated systolic blood pressure
+0;0;0;0;0;0;1;alcohol decreased systolic blood pressure
+0;0;0;0;0;0;0;alcohol associated systolic blood pressure
+0;0;0;0;0;0;1;alcohol occurred systolic blood pressure
+0;0;0;0;1;1;0;alcohol contraindicated systolic blood pressure
+0;0;0;0;0;0;0;alcohol interfere systolic blood pressure
+0;0;0;0;1;0;0;alcohol based systolic blood pressure
+0;0;0;0;0;0;0;alcohol starting systolic blood pressure
+0;0;0;0;0;0;0;alcohol preexisting systolic blood pressure
+0;0;0;0;0;0;0;alcohol diabetes systolic blood pressure
+0;0;0;0;0;0;0;alcohol left systolic blood pressure
+0;0;0;0;0;0;1;alcohol consumed systolic blood pressure
+0;0;0;0;1;1;1;alcohol associated systolic blood pressure
+0;0;0;0;0;0;1;alcohol achieve systolic blood pressure
+0;0;0;0;0;0;0;alcohol increased systolic blood pressure
+0;0;0;0;0;0;0;alcohol found systolic blood pressure
+0;0;0;0;0;0;0;alcohol elevated systolic blood pressure
+0;0;0;0;1;0;0;alcohol reduced systolic blood pressure
+0;0;0;0;0;0;0;alcohol measured systolic blood pressure
+0;0;0;0;0;0;1;alcohol increased systolic blood pressure
+0;0;0;0;0;0;1;alcohol found systolic blood pressure
+1;1;0;0;1;0;0;alcohol intake systolic blood pressure
+0;0;0;0;1;0;1;alcohol related systolic blood pressure
+0;0;0;0;0;0;1;alcohol contributed systolic blood pressure
+0;1;0;0;1;0;1;alcohol favoring systolic blood pressure
+0;0;0;0;0;0;1;alcohol increasing systolic blood pressure
+0;0;0;0;0;0;1;alcohol decreasing systolic blood pressure
+0;0;0;0;0;0;0;alcohol consumed systolic blood pressure
+0;0;0;0;0;0;1;alcohol acute systolic blood pressure
+0;0;0;0;0;0;1;systolic blood pressure increased alcohol
+0;1;0;1;1;1;0;alcohol compared systolic blood pressure
+0;1;0;1;1;1;0;alcohol according systolic blood pressure
+0;1;1;1;1;1;0;alcohol analyzed systolic blood pressure
+0;1;0;0;1;1;0;alcohol using systolic blood pressure
+1;1;1;1;1;1;0;alcohol controlling systolic blood pressure
+0;0;0;0;1;0;0;cancer followed alcohol
+0;1;1;0;1;0;0;cancer aged alcohol
+0;1;0;0;0;0;1;alcohol advocated cancer
+0;0;0;0;1;0;1;alcohol rising cancer
+0;0;0;0;1;0;0;cancer caused alcohol
+0;0;0;0;1;0;0;cancer describe alcohol
+0;0;0;0;0;0;0;cancer conflicting alcohol
+0;0;0;0;0;0;0;cancer found alcohol
+0;1;0;0;1;1;0;cancer transplanted alcohol
+0;1;0;1;1;1;0;cancer suggests alcohol
+0;1;0;0;1;1;1;cancer returning alcohol
+0;1;0;1;1;1;1;cancer smoking alcohol
+1;1;1;1;1;1;0;cancer depends alcohol
+0;1;0;1;1;1;1;alcohol increased cancer
+0;1;0;0;1;1;0;cancer related alcohol
+1;0;1;1;1;1;1;alcohol estimated cancer
+0;1;0;1;1;1;1;alcohol risk cancer
+0;1;0;1;1;1;1;alcohol using cancer
+0;0;0;0;0;0;1;alcohol assuming cancer
+0;1;0;1;1;1;1;alcohol adhere cancer
+0;0;0;0;1;0;1;alcohol concerning cancer
+0;1;0;0;1;0;0;cancer diagnosed alcohol
+0;0;0;0;1;1;1;alcohol observed cancer
+0;1;0;1;1;1;0;cancer suppresses alcohol
+0;0;0;0;0;0;0;cancer influence alcohol
+0;0;0;0;0;0;0;cancer increase alcohol
+0;1;0;0;0;1;0;cancer seemed alcohol
+0;0;1;0;0;0;0;cancer limited alcohol
+0;1;0;0;1;1;0;cancer associated alcohol
+0;1;0;1;1;1;0;cancer chewing alcohol
+0;0;0;0;1;0;0;cancer smoking alcohol
+0;1;0;0;1;0;0;cancer consumed alcohol
+0;1;1;0;1;1;1;cancer varied alcohol
+0;1;0;0;1;0;1;cancer including alcohol
+0;1;0;0;1;0;1;cancer liver alcohol
+0;0;0;0;1;0;0;cancer diabetes alcohol
+0;1;0;0;1;0;0;cancer compared alcohol
+0;1;0;1;1;1;0;cancer according alcohol
+0;1;0;0;1;0;0;cancer observed alcohol
+1;1;1;1;1;1;1;cancer identified alcohol
+0;1;0;0;1;0;1;cancer increase alcohol
+0;1;1;1;1;1;0;cancer assuming alcohol
+0;0;0;0;1;0;1;alcohol drinking cancer
+0;0;0;0;1;0;0;cancer induced alcohol
+0;1;0;0;1;0;1;alcohol decreased cancer
+0;1;0;0;0;0;1;alcohol associated cancer
+0;0;0;0;1;0;0;cancer rising alcohol
+0;1;0;1;1;1;0;cancer working alcohol
+0;1;0;1;1;1;0;cancer provides alcohol
+1;1;1;1;1;1;0;cancer reduces alcohol
+1;1;1;1;1;1;0;cancer = alcohol
+0;1;0;1;0;1;0;cancer ] alcohol
+0;1;0;0;1;1;1;alcohol causing cancer
+0;0;0;0;1;0;1;alcohol linked cancer
+0;1;0;0;1;1;0;cancer stratified alcohol
+0;0;0;0;0;0;0;cancer modulated alcohol
+0;1;0;1;1;1;0;cancer explaining alcohol
+1;1;1;1;1;1;0;cancer including alcohol
+1;1;1;1;1;1;0;cancer predicted alcohol
+1;1;0;0;1;1;0;cancer follows alcohol
+0;0;0;0;1;0;1;alcohol found cancer
+0;0;0;0;0;0;0;cancer linked alcohol
+0;1;0;0;0;1;0;cancer attributed alcohol
+1;1;1;1;1;1;0;cancer increases alcohol
+1;1;1;1;1;1;0;cancer improves alcohol
+0;0;0;0;1;0;0;cancer lagged alcohol
+0;1;0;1;0;1;1;alcohol containing cancer
+1;1;1;1;1;1;1;alcohol discovered cancer
+1;1;1;1;1;1;1;alcohol validated cancer
+1;1;1;0;1;1;0;cancer recalled alcohol
+1;1;0;1;1;1;1;cancer caused alcohol
+1;1;1;1;1;1;1;cancer damage alcohol
+0;0;0;0;1;0;1;alcohol fermented cancer
+1;1;1;1;1;1;1;alcohol added cancer
+1;1;0;1;1;1;1;alcohol forms cancer
+0;0;0;0;0;0;0;cancer includes alcohol
+0;1;0;0;1;0;1;alcohol inferred cancer
+0;0;0;0;1;0;1;alcohol mean cancer
+1;1;1;1;1;1;0;cancer analyzed alcohol
+0;0;0;0;1;0;0;cancer using alcohol
+0;0;0;0;1;0;0;cancer adjusting alcohol
+0;0;0;0;1;0;0;cancer confounding alcohol
+0;1;0;0;1;0;0;cancer included alcohol
+0;1;0;0;1;0;0;cancer screening alcohol
+0;1;0;0;1;0;1;cancer observed alcohol
+0;1;0;0;0;1;1;cancer increasing alcohol
+1;1;1;1;1;1;1;cancer excluding alcohol
+0;1;0;1;1;1;0;cancer provide alcohol
+0;0;0;0;0;0;0;cancer treated alcohol
+0;1;0;1;1;1;1;cancer result alcohol
+0;1;0;0;1;0;1;alcohol consumed cancer
+0;0;0;0;1;0;0;cancer calculated alcohol
+0;1;0;0;0;1;0;cancer based alcohol
+1;1;0;0;1;0;0;cancer engage alcohol
+0;1;1;0;1;1;0;cancer target alcohol
+0;1;0;0;0;0;0;cancer consume alcohol
+0;1;0;0;1;0;0;cancer known alcohol
+0;0;0;0;1;0;1;alcohol related cancer
+1;1;1;1;1;1;0;cancer used alcohol
+0;1;0;0;0;1;0;cancer identify alcohol
+0;0;0;0;1;0;0;cancer expressed alcohol
+1;1;0;1;1;1;1;alcohol include cancer
+0;0;0;0;1;0;1;alcohol increasing cancer
+1;0;1;1;1;1;1;cancer diabetes alcohol
+1;1;1;1;1;1;0;cancer connected alcohol
+0;0;0;0;0;0;0;cancer assess alcohol
+1;1;1;1;1;1;0;cancer present heart attack
+1;0;1;0;1;1;0;cancer associated heart attack
+0;0;0;0;0;0;1;cancer improves heart attack
+0;0;0;0;0;1;1;cancer poses heart attack
+0;0;0;0;0;0;1;cancer resulting heart attack
+0;0;0;0;1;0;1;cancer kills heart attack
+0;0;0;0;1;1;0;cancer recognized heart attack
+1;0;1;0;1;1;1;cancer exceeded heart attack
+0;0;1;0;1;1;1;cancer cleveland heart attack
+1;0;1;1;1;1;1;cancer remained heart attack
+0;0;1;1;1;1;0;cancer including heart attack
+0;0;0;0;0;0;1;heart attack increased cancer
+0;0;0;1;1;0;1;heart attack including cancer
+0;0;0;0;1;0;0;cancer observed heart attack
+1;1;1;1;1;1;0;cancer inhibit heart attack
+1;1;1;0;1;1;0;cancer preceded heart attack
+0;0;0;0;1;1;0;cancer diabetes heart attack
+0;0;0;0;1;1;1;cancer associated heart attack
+0;0;1;0;1;0;1;cancer cause heart attack
+0;0;0;0;1;0;0;cancer associated heart rate
+0;0;0;0;0;1;0;cancer related heart rate
+0;0;0;0;0;0;0;cancer undergoing heart rate
+0;0;0;0;0;0;0;cancer received heart rate
+0;0;1;0;1;0;0;cancer evaluated heart rate
+0;0;0;0;0;1;0;cancer confirmed heart rate
+0;0;0;0;1;0;0;cancer correlated heart rate
+1;0;1;1;1;1;0;cancer totaling heart rate
+1;1;1;1;1;1;1;cancer used heart rate
+0;0;0;0;0;1;1;cancer obtain heart rate
+0;0;0;0;1;1;1;heart rate associated cancer
+0;1;1;0;1;1;1;heart rate underwent cancer
+0;0;0;0;0;1;0;cancer observed heart rate
+1;1;0;0;1;1;1;cancer given heart rate
+1;1;1;1;1;1;0;cancer treated hypertension
+1;1;1;1;1;1;1;hypertension reduce cancer
+1;1;0;1;1;1;0;cancer developed hypertension
+0;1;1;0;1;1;1;hypertension associated cancer
+1;1;1;1;1;1;1;hypertension genotoxic cancer
+0;1;0;1;0;1;1;hypertension including cancer
+1;1;0;1;1;1;0;cancer include hypertension
+0;1;1;1;1;1;0;cancer associated hypertension
+1;1;1;1;1;1;0;cancer diabetes hypertension
+1;1;1;1;1;1;1;cancer compared hypertension
+1;1;0;1;1;1;1;hypertension diabetes cancer
+1;1;1;0;1;1;0;cancer including hypertension
+0;0;0;0;1;0;0;cancer mellitus hypertension
+1;1;1;0;1;1;0;cancer increased hypertension
+0;0;0;0;1;0;0;cancer detected hypertension
+0;1;0;1;1;1;0;cancer die smoke
+0;1;0;0;1;1;0;cancer suffer smoke
+0;1;0;1;1;1;0;cancer diabetes smoke
+0;0;0;0;1;1;1;smoke signaling cancer
+0;0;0;0;0;0;1;cancer suggested smoke
+0;1;0;1;1;0;1;smoke increases cancer
+0;0;0;0;1;0;0;cancer involved smoke
+0;1;0;0;1;0;0;cancer corrected smoke
+1;1;1;1;1;1;0;cancer disclose smoke
+1;1;1;1;1;1;0;cancer shared smoke
+0;1;1;1;1;1;0;cancer suggesting smoke
+0;1;0;1;1;1;0;cancer develop smoke
+0;1;0;1;1;1;1;smoke cause cancer
+0;1;1;1;1;1;1;smoke associated cancer
+1;1;1;1;1;1;0;cancer increases smoke
+0;1;1;1;1;1;0;cancer known smoke
+0;1;0;1;1;1;0;cancer associated smoke
+0;0;0;0;1;0;1;smoke caused cancer
+0;1;0;1;1;1;0;cancer vented smoke
+0;0;0;1;1;1;0;cancer coal smoke
+0;1;0;1;1;1;0;cancer aged smoke
+0;1;1;1;1;1;0;cancer smoking smoke
+0;1;1;1;1;1;1;smoke increased cancer
+1;1;1;1;1;1;1;smoke experiencing cancer
+1;1;1;1;1;1;0;cancer reported smoke
+1;1;1;1;1;1;1;smoke result cancer
+0;1;0;1;1;1;1;cancer associated smoke
+0;1;1;1;1;1;0;cancer affects smoke
+1;1;1;1;1;1;0;cancer endocrine smoke
+0;0;0;0;0;0;1;smoke leading cancer
+1;1;1;1;1;1;1;smoke particulate cancer
+0;1;0;1;1;1;1;smoke induces cancer
+0;0;1;1;1;1;1;smoke reduces cancer
+0;1;1;0;1;1;1;smoke resulting cancer
+0;1;1;1;1;1;0;cancer related smoke
+1;1;1;1;1;1;0;cancer regarded smoke
+1;1;1;1;1;1;0;cancer found smoke
+0;1;0;1;1;1;0;cancer including smoke
+0;0;0;0;0;1;1;smoke contribute cancer
+0;1;0;1;0;1;1;smoke contains cancer
+1;0;1;1;1;0;1;smoke shown cancer
+1;1;1;1;1;1;1;smoke nonsmoking cancer
+0;0;0;0;0;0;1;smoke lung cancer
+0;0;0;0;1;0;0;cancer constitutes smoke
+0;1;1;1;1;1;0;cancer cause smoke
+0;0;0;0;0;0;0;cancer notwithstanding smoke
+1;1;1;1;1;1;0;cancer secondhand smoke
+0;1;0;1;1;1;1;smoke led cancer
+1;1;1;1;1;1;1;smoke reducing cancer
+0;0;0;0;1;1;1;smoke causes cancer
+1;0;0;0;1;1;1;smoke including cancer
+1;0;0;0;1;1;1;stroke noted cancer
+1;0;1;0;1;0;1;stroke leading cancer
+0;0;0;0;1;0;1;stroke captures cancer
+1;0;1;0;1;0;0;cancer associated stroke
+0;1;1;0;1;1;0;cancer considered stroke
+0;0;0;0;1;0;0;cancer increased stroke
+1;1;1;1;1;1;0;cancer found stroke
+1;0;1;1;1;0;0;cancer including stroke
+0;1;0;0;1;1;0;cancer prevented stroke
+0;1;0;1;0;1;0;cancer caused stroke
+0;0;0;0;1;0;0;cancer preceding stroke
+0;0;0;0;1;1;1;stroke increased cancer
+1;1;1;1;1;1;1;cancer found stroke
+0;0;0;0;1;0;0;cancer decreased stroke
+0;0;0;0;0;1;1;cancer increased stroke
+1;0;0;1;1;1;1;cancer following stroke
+0;0;0;0;1;1;1;stroke made cancer
+1;1;1;1;1;1;1;stroke preceding cancer
+0;1;1;0;1;1;0;cancer admitted stroke
+1;1;1;0;1;1;1;cancer resulting stroke
+0;0;0;0;0;1;0;cancer related stroke
+0;0;0;1;1;0;0;cancer bleeding stroke
+0;0;0;1;0;1;1;cancer including stroke
+1;1;1;1;1;1;1;cancer associated stroke
+0;0;0;0;0;1;0;cancer produce stroke
+1;1;1;1;1;1;0;cancer diabetes stroke
+1;1;1;1;1;1;0;cancer compared stroke
+0;1;0;1;1;1;0;diabetes compared depression
+0;1;0;1;1;1;0;diabetes statins depression
+0;1;0;0;1;1;0;diabetes sleep depression
+1;1;1;1;1;1;0;diabetes found depression
+1;1;1;1;1;1;0;diabetes associated depression
+0;0;0;0;0;0;0;diabetes organized depression
+0;1;0;1;0;1;0;diabetes addressing depression
+1;1;1;1;1;1;0;diabetes meeting depression
+1;1;1;1;1;1;0;diabetes odds depression
+0;1;0;1;1;1;0;diabetes = depression
+1;1;1;1;1;1;0;diabetes testing depression
+1;1;1;1;1;1;0;diabetes eating depression
+1;1;1;0;1;1;0;diabetes linked depression
+1;1;1;1;1;1;0;diabetes increased depression
+0;1;0;0;1;1;0;diabetes adjusting depression
+1;1;1;1;1;1;0;diabetes affect depression
+1;1;1;1;1;1;0;diabetes leading depression
+1;1;1;1;1;1;0;diabetes including depression
+0;1;0;1;1;1;0;diabetes shown depression
+1;1;1;1;1;1;0;diabetes parenting depression
+0;1;0;1;1;1;0;diabetes accompanied depression
+1;1;1;1;1;1;0;diabetes increasing depression
+1;1;1;1;1;1;0;diabetes demonstrated depression
+0;0;0;1;1;1;0;diabetes defined depression
+1;1;1;1;1;1;1;depression appears diabetes
+0;0;0;0;1;1;1;depression increase diabetes
+1;1;0;1;1;1;0;diabetes influence depression
+1;1;1;1;1;1;1;depression related diabetes
+0;0;0;0;0;1;0;diabetes observed depression
+0;1;0;1;1;0;0;diabetes endorse depression
+1;1;0;1;1;1;0;diabetes adjusted depression
+1;1;1;1;1;1;0;diabetes driven depression
+0;1;0;1;1;1;0;diabetes coexist depression
+0;0;0;0;0;1;0;diabetes predicted depression
+0;0;0;0;1;1;0;diabetes determine depression
+0;1;0;1;0;1;0;diabetes affected depression
+0;1;0;1;1;1;0;diabetes increase depression
+0;0;0;1;1;1;0;diabetes assessed depression
+0;1;0;1;1;1;0;diabetes using depression
+0;1;0;1;1;1;1;depression evaluated diabetes
+1;1;1;1;1;1;1;depression explore diabetes
+0;0;0;0;1;1;0;diabetes moderate depression
+0;1;1;0;1;1;0;diabetes identify depression
+0;0;1;0;1;1;0;diabetes interacted depression
+0;0;1;1;1;1;1;diabetes accentuating depression
+0;1;1;1;1;1;1;heart attack estimated diabetes
+0;1;1;1;1;1;0;diabetes ascvd heart attack
+0;1;0;1;1;1;0;diabetes including heart attack
+0;0;0;0;1;1;1;heart attack considered diabetes
+0;1;0;0;1;0;0;diabetes increased heart attack
+0;1;0;0;1;1;1;diabetes increases heart attack
+0;1;1;1;1;1;1;diabetes increase heart attack
+1;0;1;1;1;1;0;diabetes examined heart attack
+1;0;1;0;1;1;0;diabetes include heart attack
+0;0;0;1;1;1;1;diabetes associated heart attack
+0;0;1;0;1;1;1;diabetes increased heart attack
+0;0;1;0;1;1;1;heart attack developing diabetes
+0;1;1;0;1;1;0;diabetes combined heart attack
+0;0;1;0;1;1;1;heart attack accounted diabetes
+0;1;0;0;1;1;0;diabetes focusing heart attack
+1;0;1;0;1;1;0;diabetes established heart attack
+0;0;0;0;1;0;1;heart attack leading diabetes
+0;1;0;1;0;1;0;diabetes = heart attack
+0;1;0;1;0;1;0;diabetes associated heart attack
+1;1;1;1;1;1;0;diabetes containing heart attack
+0;0;1;0;1;1;0;diabetes and/or heart attack
+1;1;1;1;1;1;0;heart attack measured systolic blood pressure
+1;1;1;1;1;1;0;heart attack evaluated systolic blood pressure
+1;1;1;1;1;1;0;heart rate related heart attack
+1;1;1;1;1;1;0;heart rate midterm heart attack
+1;1;1;1;1;1;1;heart rate engenders heart attack
+0;1;0;0;0;1;0;heart rate associated heart attack
+0;1;0;1;0;1;0;heart rate suggests heart attack
+1;1;1;1;1;1;1;heart rate resulting heart attack
+0;0;0;0;0;1;1;heart rate risk heart attack
+0;0;0;0;0;1;0;heart rate modulates heart attack
+0;1;0;1;0;1;0;heart rate established heart attack
+0;1;1;1;1;1;1;heart rate presented heart attack
+1;1;1;1;1;1;1;heart rate allow heart attack
+0;1;1;1;1;1;1;heart rate compare heart attack
+0;1;0;1;0;1;1;heart rate predicts heart attack
+0;1;0;1;0;1;1;heart rate described heart attack
+0;0;1;0;1;1;0;heart rate conducting heart attack
+0;1;0;1;0;1;1;heart attack estimated heart rate
+1;1;0;1;0;1;1;heart attack adjusting heart rate
+0;1;0;1;0;1;1;heart attack diabetes heart rate
+0;0;0;0;0;1;1;heart attack known heart rate
+0;0;0;0;0;1;0;heart rate proven heart attack
+1;1;1;1;1;1;0;heart rate correlate heart attack
+1;0;1;1;1;1;0;heart rate lowering heart attack
+0;0;0;0;0;0;0;heart rate reducing heart attack
+1;0;1;0;1;1;0;heart rate demonstrated heart attack
+1;1;1;1;1;1;1;heart rate related heart attack
+1;1;0;1;1;1;1;heart rate threatening heart attack
+0;1;0;0;0;0;1;heart rate repaired heart attack
+1;1;0;1;0;1;1;heart attack differ heart rate
+0;1;0;0;1;1;1;heart attack seen heart rate
+0;0;0;0;0;0;0;heart rate increased heart attack
+0;0;0;0;1;1;0;heart rate resting heart attack
+0;0;0;0;1;1;0;heart rate increasing heart attack
+0;1;0;1;1;1;1;systolic blood pressure resting heart rate
+0;0;0;0;1;1;1;systolic blood pressure reduced heart rate
+0;0;0;0;0;0;0;heart rate increased systolic blood pressure
+0;1;0;0;0;1;0;heart rate reaching systolic blood pressure
+0;1;0;1;0;1;0;heart rate pronounced systolic blood pressure
+0;0;0;0;0;1;0;heart rate resting systolic blood pressure
+0;1;0;1;1;1;0;heart rate assessed systolic blood pressure
+0;0;0;0;1;1;0;heart rate using systolic blood pressure
+0;0;0;0;0;0;1;heart rate wind systolic blood pressure
+0;0;0;0;1;1;1;heart rate associated systolic blood pressure
+0;1;0;1;0;1;0;heart rate elevated systolic blood pressure
+0;1;0;0;1;1;0;heart rate fasting systolic blood pressure
+0;1;0;0;0;1;0;heart rate correlated systolic blood pressure
+0;0;0;0;1;1;0;heart rate experienced systolic blood pressure
+0;0;0;0;0;1;0;heart rate associated systolic blood pressure
+0;0;0;0;1;1;0;heart rate tended systolic blood pressure
+0;1;1;1;1;1;1;heart rate lowering systolic blood pressure
+0;0;0;1;1;1;1;heart rate increases systolic blood pressure
+0;0;0;0;1;1;1;heart rate elicits systolic blood pressure
+0;0;0;0;0;1;1;heart rate leading systolic blood pressure
+0;1;0;1;1;1;1;heart rate increased systolic blood pressure
+0;1;1;1;1;1;0;heart rate examined systolic blood pressure
+0;0;1;0;1;1;0;heart rate ] systolic blood pressure
+1;1;0;1;1;1;0;heart rate glycated systolic blood pressure
+0;1;0;0;0;1;1;heart rate dropped systolic blood pressure
+0;0;0;0;0;0;1;systolic blood pressure found heart rate
+0;0;0;0;0;0;1;systolic blood pressure adjusted heart rate
+0;0;0;0;0;0;0;height glycosylated depression
+0;0;0;0;0;0;0;height hearing depression
+0;0;0;0;0;1;0;height calculated depression
+0;0;0;0;1;1;0;height testing depression
+0;0;0;0;0;0;0;height administered depression
+0;0;0;0;0;0;0;height achieve depression
+0;0;0;0;0;1;0;height using depression
+0;0;0;0;0;1;0;height measured depression
+0;0;0;0;0;0;0;height associated depression
+0;0;0;0;0;1;1;height associated depression
+0;0;0;0;0;0;0;height peer depression
+0;0;0;0;0;0;0;height correlated depression
+0;0;0;0;0;0;0;height adjusting depression
+0;0;0;0;0;0;0;height suggesting depression
+0;0;0;0;1;0;0;height affected depression
+0;0;0;0;0;0;0;height inbreeding depression
+0;1;1;0;0;1;1;depression increased height
+0;0;0;0;0;0;0;hypertension maintained heart rate
+0;1;0;0;0;1;0;hypertension Is heart rate
+1;1;1;1;1;1;0;hypertension masked heart rate
+0;1;0;0;0;1;0;hypertension related heart rate
+0;1;0;0;0;1;0;hypertension reduced heart rate
+0;0;1;0;1;0;0;hypertension evaluated heart rate
+0;1;0;0;0;1;0;hypertension characterized heart rate
+0;0;0;0;0;1;0;hypertension diabetes heart rate
+0;1;1;0;1;1;0;hypertension estimated heart rate
+0;0;0;0;1;1;0;hypertension adjusting heart rate
+0;1;0;0;1;1;0;hypertension exerting heart rate
+0;0;1;0;1;0;1;hypertension diabetes heart rate
+0;1;0;0;1;1;1;hypertension left heart rate
+0;0;0;0;0;0;0;hypertension controlling heart rate
+0;1;0;0;0;1;0;hypertension ratio heart rate
+0;1;0;1;0;1;0;hypertension resting heart rate
+0;0;0;0;0;1;0;hypertension provided heart rate
+0;1;0;0;0;1;0;hypertension weight heart rate
+1;1;1;1;1;1;1;hypertension compared heart rate
+0;1;0;0;0;1;0;hypertension elicited heart rate
+0;1;0;0;0;1;0;hypertension associated heart rate
+0;1;0;0;1;1;0;hypertension find heart rate
+0;0;0;0;0;0;0;hypertension attributed heart rate
+0;0;0;0;1;1;0;hypertension smoking heart rate
+0;1;0;0;0;1;0;hypertension including heart rate
+0;1;0;0;0;1;0;hypertension compared heart rate
+0;0;0;0;0;1;1;hypertension estimated heart rate
+0;0;0;0;0;0;1;hypertension adjusting heart rate
+0;0;0;0;0;0;0;hypertension corrected heart rate
+0;1;0;0;0;1;0;hypertension assessed heart rate
+0;1;0;0;1;1;0;hypertension receiving heart rate
+0;1;0;1;0;1;0;hypertension admitted heart rate
+0;0;1;0;0;0;1;heart rate maintained hypertension
+0;0;0;0;0;0;1;smoke completed heart rate
+0;0;0;1;1;1;0;smoke detected hypertension
+0;1;0;1;1;1;0;smoke diabetes hypertension
+1;0;1;1;1;1;0;smoke suffered hypertension
+0;0;0;0;0;0;0;smoke continue hypertension
+0;1;0;0;1;1;1;smoke mediated hypertension
+0;0;1;1;1;1;1;smoke associated hypertension
+0;0;1;1;1;1;1;smoke shown hypertension
+0;1;0;0;1;1;1;smoke induce hypertension
+0;0;0;1;1;1;1;smoke considered hypertension
+0;1;0;0;1;1;1;smoke initiates hypertension
+1;1;1;0;1;1;1;smoke resulting hypertension
+0;0;0;0;0;0;0;smoke checked hypertension
+0;1;1;1;1;1;0;smoke develop hypertension
+0;0;1;1;1;1;0;smoke associated hypertension
+1;1;1;1;1;1;0;smoke increased hypertension
+0;0;0;0;1;1;1;smoke stressed hypertension
+0;0;0;0;0;0;1;smoke depressed hypertension
+0;0;0;0;0;0;0;smoke cadmium hypertension
+0;1;0;0;1;0;0;smoke living hypertension
+0;0;0;1;1;1;0;smoke considered hypertension
+0;0;0;0;1;1;0;smoke assess hypertension
+0;0;0;1;0;1;0;smoke assessed hypertension
+0;0;0;0;1;1;1;smoke affected hypertension
+0;1;0;0;0;0;1;smoke smoking hypertension
+0;0;0;0;0;1;0;smoke monitored hypertension
+0;0;0;0;0;1;0;smoke drink hypertension
+0;0;0;0;0;0;0;smoke breastfeed hypertension
+0;1;0;1;1;1;1;smoke exposed hypertension
+0;1;1;0;1;1;1;smoke produce hypertension
+0;0;0;0;0;0;0;smoke exercise hypertension
+0;1;1;1;1;1;1;smoke known hypertension
+1;1;1;1;1;1;1;smoke involves hypertension
+1;1;0;1;1;1;1;smoke causes hypertension
+0;0;0;0;0;0;1;smoke remodeling hypertension
+0;1;0;0;1;1;1;smoke contribute hypertension
+1;1;0;0;1;1;0;smoke cigarette hypertension
+0;0;0;0;0;0;0;smoke clarify hypertension
+1;1;0;0;1;1;0;smoke induced hypertension
+0;0;1;1;1;1;0;smoke starts hypertension
+0;0;0;0;1;1;0;smoke develop stroke
+0;0;0;0;0;0;0;smoke compared stroke
+0;0;0;0;0;0;0;smoke continued stroke
+0;0;0;0;1;1;1;stroke related smoke
+0;0;0;0;0;0;1;stroke estrogen smoke
+0;0;0;0;1;0;0;smoke associated stroke
+1;1;1;0;1;1;1;smoke increases stroke
+0;0;0;0;0;0;1;smoke believed stroke
+0;0;0;0;0;0;1;smoke believe stroke
+1;1;1;0;1;1;0;smoke increases stroke
+0;0;0;0;0;0;1;smoke compared stroke
+0;0;0;0;0;0;1;smoke continued stroke
+0;0;0;0;1;1;1;smoke investigated stroke
+0;1;0;1;1;1;0;smoke suffer stroke
+0;0;0;0;0;0;0;smoke diabetes stroke
+0;0;0;0;0;0;1;smoke designed stroke
+1;0;1;0;1;1;1;smoke evaluate stroke
+1;1;0;1;1;1;1;smoke induced stroke
+1;1;0;0;1;0;1;smoke sRAGE stroke
+0;1;0;0;1;0;1;smoke resulting stroke
+0;0;0;0;1;0;0;smoke presents stroke
+1;1;1;1;1;1;1;smoke use stroke
+0;0;1;0;1;0;1;smoke increase stroke
+1;0;1;0;1;0;1;smoke predispose stroke
+1;1;1;1;1;1;1;smoke atherogenic stroke
+0;0;0;0;1;1;1;smoke increasing stroke
+1;0;0;0;1;1;1;smoke leads stroke
+1;1;1;1;1;1;1;smoke associated stroke
+0;0;0;0;1;1;1;smoke face stroke
+1;1;0;0;1;0;1;smoke increased stroke
+0;0;0;0;1;1;0;smoke including stroke
+1;1;1;1;1;1;1;stroke occurred smoke
+1;1;1;0;1;1;1;stroke associated smoke
+0;0;0;0;0;0;0;smoke increasing stroke
+1;1;1;1;1;1;1;smoke smoking stroke
+1;1;1;1;1;1;1;smoke survive stroke
+0;0;0;0;1;1;0;stroke associated diabetes
+0;0;0;0;0;0;1;diabetes increased stroke
+0;0;0;0;0;0;1;diabetes using stroke
+0;1;0;1;1;1;1;diabetes overestimated stroke
+1;1;1;1;1;1;1;diabetes compared stroke
+0;1;0;1;1;1;1;stroke characterized diabetes
+0;1;0;1;1;1;1;stroke lead diabetes
+0;0;0;0;1;0;1;stroke including diabetes
+1;1;1;1;1;1;0;stroke weight diabetes
+0;0;0;0;0;0;0;stroke updated diabetes
+1;1;1;1;1;1;0;stroke baseline diabetes
+1;1;1;1;1;1;1;diabetes measured stroke
+0;0;1;1;1;1;0;stroke = diabetes
+1;1;1;1;1;1;1;diabetes increases stroke
+0;0;0;0;1;0;0;stroke diseases diabetes
+0;1;1;1;1;1;1;stroke develop diabetes
+1;0;1;0;1;1;1;diabetes underestimate stroke
+0;0;1;0;1;0;1;diabetes added stroke
+0;1;1;1;1;1;1;diabetes associated stroke
+1;1;1;1;1;1;1;diabetes adjusting stroke
+0;1;0;0;0;1;0;stroke suffered diabetes
+0;1;0;1;0;1;1;stroke acquired heart disease
+0;1;0;1;0;1;0;stroke left heart rate
+0;0;0;0;0;1;0;stroke rv heart rate
+0;1;0;0;0;1;0;stroke derived heart rate
+0;0;0;0;0;0;0;stroke preferred heart rate
+0;0;0;0;1;0;0;stroke render heart rate
+0;1;0;0;0;1;0;stroke smoking heart rate
+0;0;0;0;1;1;0;stroke diabetes heart rate
+0;1;0;0;0;1;0;stroke fasting heart rate
+0;0;0;0;0;0;1;stroke reduced heart rate
+1;0;1;0;1;1;1;stroke compared heart rate
+0;1;0;0;1;1;0;stroke falls heart rate
+0;1;0;1;1;1;0;stroke decreased heart rate
+0;0;0;0;1;1;0;stroke suggesting heart rate
+0;1;0;1;0;1;1;stroke owing heart rate
+0;1;0;0;0;1;1;stroke increased heart rate
+0;0;0;0;0;0;1;stroke resulting heart rate
+0;1;0;0;0;1;0;stroke acquired heart rate
+0;1;0;0;0;1;0;stroke inpatient heart rate
+0;1;0;0;0;1;0;stroke associated heart rate
+1;1;1;1;1;1;0;stroke outcome heart rate
+0;1;0;0;0;1;1;stroke enters heart rate
+0;0;0;0;0;1;0;stroke produce heart rate
+0;1;0;1;0;1;1;stroke affects heart rate
+0;0;0;0;0;0;1;heart rate measured stroke
+1;0;1;0;1;1;0;stroke mean heart rate
+0;1;0;0;0;1;1;heart rate limited stroke
+0;1;0;0;0;1;1;heart rate decreases stroke
+0;1;0;0;0;1;1;heart rate associated stroke
+0;1;0;0;0;1;1;heart rate affects stroke
+0;0;1;0;1;1;1;heart rate applied stroke
+0;0;0;0;0;1;1;heart rate ischemic stroke
+0;1;0;1;0;1;1;stroke estimated heart rate
+0;0;0;0;1;0;1;stroke adjusting heart rate
+0;1;0;1;0;1;1;stroke diabetes heart rate
+0;1;0;0;0;1;1;stroke known heart rate
+0;0;0;0;0;1;0;stroke controlled heart rate
+0;0;0;0;0;0;0;stroke evaluate heart rate
+0;0;0;0;0;1;0;stroke cycling heart rate
+0;0;0;0;1;1;1;heart rate attributed stroke
+0;1;0;1;0;1;1;heart rate reduces stroke
+0;0;0;0;1;1;0;stroke known heart rate
+0;1;0;1;0;1;0;stroke increased heart rate
+0;0;0;0;0;1;0;stroke calculate heart rate
+0;0;0;0;0;1;0;stroke emerged heart rate
+0;0;0;0;0;0;0;stroke increase heart rate
+0;0;0;0;0;0;0;stroke resting heart rate
+0;1;0;0;1;1;1;stroke remained heart rate
+0;0;0;0;0;0;0;stroke increases heart rate
+0;1;1;0;1;1;1;heart rate estimated stroke
+0;1;0;1;0;1;1;stroke resulted heart rate
+0;1;0;1;1;1;0;stroke assessed heart rate
+0;0;0;0;0;1;0;stroke using heart rate
+0;1;0;0;0;1;0;stroke adjusting heart rate
+1;1;0;0;1;1;1;stroke following heart rate
+0;1;0;0;0;1;0;stroke linked heart rate
+0;1;0;1;0;1;1;heart rate increased stroke
+0;1;0;0;0;1;1;stroke related heart rate
+0;0;0;0;0;0;0;stroke regarded heart rate
+1;0;1;1;1;1;1;heart rate known stroke
+0;1;1;0;1;1;1;stroke improved heart rate
+0;0;0;0;0;1;0;stroke considered hypertension
+0;1;0;1;1;1;0;stroke associated hypertension
+1;1;1;1;1;1;1;stroke differ hypertension
+1;1;1;0;1;1;0;stroke lacked hypertension
+1;1;1;1;1;1;1;stroke increased hypertension
+0;0;1;0;1;1;0;stroke manifest hypertension
+1;1;1;1;1;1;1;hypertension reduced stroke
+0;0;1;0;1;1;0;stroke requiring hypertension
+0;1;1;0;1;1;1;stroke remains hypertension
+0;1;1;1;1;1;1;stroke reversal hypertension
+0;0;1;0;1;1;1;hypertension include stroke
+0;0;1;1;1;1;0;stroke diabetes hypertension
+0;0;1;0;1;1;0;stroke descending hypertension
+0;0;0;1;0;1;0;stroke receive hypertension
+0;1;1;0;1;1;0;stroke translate hypertension
+0;0;1;0;1;0;1;stroke compared hypertension
+0;0;0;1;0;1;1;stroke including hypertension
+0;1;1;0;1;1;0;stroke impaired hypertension
+0;0;1;0;1;1;0;stroke compared hypertension
+0;0;0;0;1;1;0;stroke known hypertension
+0;1;0;0;1;1;0;stroke included hypertension
+1;1;1;1;1;1;0;stroke examined hypertension
+0;1;1;0;1;1;0;stroke and/or hypertension
+0;1;1;1;1;1;0;stroke increases hypertension
+0;1;0;0;0;1;0;stroke linked hypertension
+0;0;1;0;1;1;0;stroke left hypertension
+1;1;1;1;1;1;0;stroke adjusting hypertension
+0;0;0;0;1;0;1;hypertension increased stroke
+0;1;1;0;1;1;1;hypertension compared stroke
+1;1;1;1;1;1;1;hypertension adjusting stroke
+1;0;1;0;1;1;1;hypertension decreasing stroke
+1;0;0;0;1;1;1;hypertension lipoprotein stroke
+0;0;0;0;0;1;0;stroke decreased systolic blood pressure
+0;0;0;0;0;0;0;stroke associated systolic blood pressure
+0;0;0;0;0;1;0;stroke compared systolic blood pressure
+0;0;0;0;0;0;0;stroke related systolic blood pressure
+0;0;0;0;0;0;1;stroke associated systolic blood pressure
+0;1;0;1;0;0;1;stroke updated systolic blood pressure
+0;0;0;0;0;1;1;stroke baseline systolic blood pressure
+0;1;0;1;0;0;1;stroke aer systolic blood pressure
+0;0;0;0;0;0;0;stroke linked systolic blood pressure
+1;0;1;1;1;1;0;stroke adjusted systolic blood pressure
+0;0;0;0;0;0;1;stroke considered systolic blood pressure
+0;0;0;0;1;1;1;systolic blood pressure diabetes stroke
+0;0;0;0;0;0;1;systolic blood pressure estimated stroke
+0;0;0;1;0;0;0;stroke increases systolic blood pressure
+0;1;0;0;0;1;0;stroke examining systolic blood pressure
+0;0;0;0;0;1;0;stroke achieved systolic blood pressure
+0;0;0;0;0;1;1;systolic blood pressure according stroke
+0;0;0;0;0;0;0;stroke fell systolic blood pressure
+0;0;0;0;0;0;0;stroke signaling systolic blood pressure
+0;0;0;0;0;1;1;systolic blood pressure adjusted stroke
+0;0;0;0;0;0;1;stroke change systolic blood pressure
+0;0;0;0;1;0;1;systolic blood pressure and/or stroke
+0;0;0;0;1;0;0;stroke based systolic blood pressure
+0;0;0;0;0;1;0;stroke smoking systolic blood pressure
+0;0;0;0;0;1;0;stroke reduced systolic blood pressure
+0;0;0;0;0;0;0;stroke < systolic blood pressure
+0;0;0;0;0;1;0;stroke aged systolic blood pressure
+0;0;0;0;1;0;0;stroke observed systolic blood pressure
+0;0;0;0;0;1;0;stroke including systolic blood pressure
+0;0;0;0;0;0;0;stroke accomplished systolic blood pressure
+0;0;0;0;1;1;0;stroke attenuates systolic blood pressure
+0;0;0;0;0;0;1;systolic blood pressure explains stroke
+0;0;0;0;0;0;1;systolic blood pressure preventing stroke
+0;0;0;0;0;0;1;systolic blood pressure predicted stroke
+1;0;0;0;1;0;1;systolic blood pressure smoking stroke
+0;0;0;1;0;1;0;stroke elevated systolic blood pressure
+0;1;0;0;1;1;1;systolic blood pressure increased stroke
+0;0;0;0;0;0;1;stroke advise systolic blood pressure
+0;0;0;0;0;0;1;stroke keeping systolic blood pressure
+0;0;0;0;0;1;1;systolic blood pressure associated stroke
+0;0;0;0;0;0;1;stroke found systolic blood pressure
+0;0;0;0;0;0;0;stroke preventing systolic blood pressure
+0;0;0;0;1;1;0;stroke attenuated systolic blood pressure
+1;1;0;0;1;1;1;systolic blood pressure reduced stroke
+0;1;0;0;0;0;1;systolic blood pressure < stroke
+0;0;1;1;1;1;0;stroke diabetes systolic blood pressure
+0;0;0;1;1;1;0;weight breed heart disease
+0;0;0;1;1;1;0;weight applied heart disease
+0;0;0;0;0;1;0;weight asphyxia heart disease
+0;0;0;0;0;1;0;weight including heart disease
+0;1;0;1;0;1;0;weight increased heart disease
+0;1;1;1;1;1;0;weight found heart disease
+0;0;0;0;1;1;0;weight put heart disease
+0;0;0;1;0;1;0;weight classifying heart disease
+0;0;0;0;0;1;0;weight according heart disease
+0;0;0;1;0;1;0;weight associated heart disease
+0;0;0;0;0;0;0;weight determine heart disease
+0;0;0;0;0;1;0;weight evaluated heart disease
+0;0;0;0;0;1;0;weight drinking heart disease
+0;0;0;0;0;0;0;weight and/or heart disease
+0;0;0;0;0;0;0;weight proven heart disease
+0;0;0;0;0;1;0;weight /snoring heart disease
+0;0;0;1;1;1;1;weight puts heart disease
+0;0;0;1;0;1;1;heart disease accompanied weight
+0;0;0;1;1;1;0;weight born heart disease
+0;0;0;1;1;1;1;weight cause heart disease
+0;0;0;1;0;1;1;weight increase heart disease
+0;0;0;0;0;0;0;weight improved heart disease
+0;0;0;0;0;1;0;weight compared heart disease
+0;0;0;1;0;1;1;weight associated heart disease
+0;0;0;1;0;1;0;weight provide heart disease
+0;0;0;0;0;0;1;weight diabetes heart disease
+0;0;0;0;0;0;1;weight benefit heart disease
+0;0;0;1;1;1;1;weight result heart disease
+0;0;0;0;0;0;0;weight considering systolic blood pressure
+0;0;0;0;0;0;0;weight blocking systolic blood pressure
+0;0;0;0;0;0;0;weight associated systolic blood pressure
+0;0;0;0;0;0;0;weight correlated systolic blood pressure
+0;0;0;0;0;0;1;systolic blood pressure prevented weight
+0;0;0;0;0;0;1;systolic blood pressure restored weight
+0;0;0;0;0;0;1;systolic blood pressure delivered weight
+0;0;0;0;0;1;1;weight increases systolic blood pressure
+0;0;0;0;0;0;1;weight developing systolic blood pressure
+0;0;0;0;0;0;1;weight known systolic blood pressure
+0;0;0;0;1;0;1;weight elevate systolic blood pressure
+0;0;0;0;0;0;1;weight diseases systolic blood pressure
+0;0;0;0;0;0;1;weight demonstrates systolic blood pressure
+0;0;0;0;0;0;1;weight restricted systolic blood pressure
+0;0;0;0;0;0;1;weight heightened systolic blood pressure
+0;1;0;0;0;1;1;weight raised systolic blood pressure
+0;0;0;0;0;0;0;weight observed systolic blood pressure
+0;0;0;0;0;0;0;weight comparing systolic blood pressure
+0;0;0;0;0;0;1;weight treated systolic blood pressure
+0;0;0;0;0;0;1;weight associated systolic blood pressure
+0;0;0;0;0;0;0;weight normalized systolic blood pressure
+0;0;0;0;0;0;0;weight compared systolic blood pressure
+1;1;1;1;1;1;0;bronchitis associated lung cancer
+0;1;1;1;1;1;1;bronchitis associated lung cancer
+1;1;0;0;1;1;1;bronchitis developing lung cancer
+1;1;1;1;1;1;1;smoking developing bronchitis
+1;1;1;1;1;1;0;bronchitis smoke smoking
+1;1;1;1;1;1;0;bronchitis associated tuberculosis
+0;0;0;0;0;0;1;bronchitis resulted tuberculosis
+0;1;1;1;1;1;0;bronchitis misdiagnosed tuberculosis
+0;1;1;1;1;1;0;bronchitis admitted tuberculosis
+0;1;1;1;1;1;0;bronchitis analysed tuberculosis
+1;1;1;1;1;1;0;bronchitis compared tuberculosis
+1;1;1;1;1;1;0;bronchitis found tuberculosis
+1;1;1;1;1;1;0;bronchitis followed tuberculosis
+1;1;1;1;1;1;0;bronchitis finding tuberculosis
+0;0;0;0;0;0;0;bronchitis revealed tuberculosis
+1;1;1;1;1;1;0;dyspnoea contains asia
+0;1;1;0;1;1;0;dyspnoea forced smoking
+0;1;1;0;1;1;0;dyspnoea < smoking
+1;1;1;1;1;1;0;dyspnoea predicted smoking
+0;1;0;0;1;1;0;dyspnoea associated smoking
+0;1;0;1;1;1;0;lung cancer demonstrated smoking
+0;1;0;0;1;1;1;smoking cause lung cancer
+0;0;0;0;0;0;0;lung cancer smoke smoking
+0;1;0;0;1;1;0;lung cancer corrected smoking
+0;1;0;1;0;1;0;lung cancer examined smoking
+0;1;0;1;0;1;0;lung cancer stratified smoking
+0;1;0;0;1;1;1;smoking include lung cancer
+0;1;0;0;1;1;1;smoking showed lung cancer
+0;0;0;0;0;0;1;smoking indicated lung cancer
+0;1;0;1;1;1;1;smoking decreased lung cancer
+0;0;0;0;0;0;1;smoking associated lung cancer
+0;1;0;0;1;1;0;lung cancer expected smoking
+0;1;0;1;1;1;0;lung cancer assuming smoking
+0;1;0;1;1;1;0;lung cancer seen smoking
+0;1;0;0;1;1;1;smoking using lung cancer
+0;1;0;0;0;1;1;smoking enrich lung cancer
+0;1;0;0;0;1;0;lung cancer developing smoking
+0;1;0;0;1;1;0;lung cancer testing smoking
+0;1;0;0;1;1;0;lung cancer perceived smoking
+0;0;0;0;0;0;0;lung cancer provide smoking
+0;0;0;0;1;1;1;smoking improve lung cancer
+0;1;0;1;1;1;1;smoking increase lung cancer
+0;0;0;0;0;0;1;smoking including lung cancer
+0;1;0;0;0;0;0;lung cancer quit smoking
+0;1;0;1;1;1;1;smoking tobacco lung cancer
+0;1;0;1;1;1;1;smoking poses lung cancer
+0;1;0;0;0;1;1;smoking developing lung cancer
+0;1;0;1;1;1;0;lung cancer depending smoking
+0;1;0;0;1;1;0;lung cancer followed smoking
+0;1;0;0;1;1;1;smoking related lung cancer
+0;1;0;1;1;1;1;smoking increased lung cancer
+0;0;0;0;0;0;1;smoking inducing lung cancer
+0;1;0;0;0;1;1;smoking reducing lung cancer
+0;1;0;1;1;1;1;smoking considered lung cancer
+0;0;0;0;0;0;1;smoking accounts lung cancer
+0;0;0;0;0;1;1;smoking reduce lung cancer
+0;1;0;0;0;1;1;smoking testing lung cancer
+0;1;0;0;1;1;1;smoking smoke lung cancer
+0;1;0;1;1;1;1;smoking perceived lung cancer
+0;1;0;1;0;1;0;lung cancer associated smoking
+0;0;0;0;0;0;0;lung cancer exposure smoking
+0;1;1;1;1;1;0;lung cancer secondhand smoking
+0;0;0;0;0;1;1;tuberculosis developing lung cancer
+0;1;0;1;0;1;0;lung cancer misdiagnosed tuberculosis
+0;0;0;1;0;1;0;lung cancer mimicking tuberculosis
+1;1;1;1;1;1;1;smoking believed bronchitis
+1;1;1;1;1;1;1;smoking cause bronchitis
+0;0;0;0;0;0;1;smoking caused bronchitis
+0;1;0;0;0;0;0;smoking slept tuberculosis
+0;0;0;0;0;0;0;smoking smoked tuberculosis
+0;1;0;0;1;1;0;smoking compared tuberculosis
+0;0;0;1;0;0;0;smoking accounted tuberculosis
+0;0;0;0;0;1;0;smoking diabetes tuberculosis
+0;1;0;0;1;1;1;smoking reduce tuberculosis
+0;0;0;0;0;0;1;smoking make tuberculosis
+0;0;0;0;0;0;1;smoking recover tuberculosis
+0;1;0;0;1;0;1;smoking want tuberculosis
+0;1;0;0;1;1;1;smoking give tuberculosis
+0;1;0;0;1;1;0;smoking linked tuberculosis
+0;1;0;0;1;0;0;smoking associated tuberculosis
+0;1;0;0;1;1;1;smoking including tuberculosis
+0;1;0;0;1;1;1;smoking identified tuberculosis
+0;0;0;0;0;0;0;smoking determine tuberculosis
+0;0;0;0;0;0;0;smoking suspected tuberculosis
+0;1;0;1;1;1;0;smoking used tuberculosis
+0;0;0;0;0;0;0;smoking study tuberculosis
