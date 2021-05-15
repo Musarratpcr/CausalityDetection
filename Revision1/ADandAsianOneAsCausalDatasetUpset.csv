@@ -863,7 +863,6 @@ Base-Mean;Large-Mean;Base-Max;Large-Max;Base-Cls;Large-Cls;Actual;Triples
 0;0;0;0;0;0;1;weight treated systolic blood pressure
 0;0;0;0;0;0;1;weight associated systolic blood pressure
 0;0;0;0;0;0;0;weight normalized systolic blood pressure
-0;0;0;0;0;0;0;weight compared systolic blood pressure
 1;1;1;1;1;1;0;bronchitis associated lung cancer
 0;1;1;1;1;1;1;bronchitis associated lung cancer
 1;1;0;0;1;1;1;bronchitis developing lung cancer
